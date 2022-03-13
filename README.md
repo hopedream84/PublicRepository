@@ -1,2 +1,2 @@
-# TmpPubRepository
-임시 저장소
+# PublicRepository
+임시 public 저장소
